@@ -6,6 +6,7 @@ The program should have a menu which includes following options for the contacts
 1. add
 2. edit
 3. delete
+
 Start with an empty dictionary in order to store names and phone numbers as pairs.
 Program should take the names and phone numbers with the input() function.
 Be sure that names have only letters(Uppercase or lowercase). No numbers.. No characters or any other thing.. Just letters.. Program should ask for a new input if the input is not valid.
