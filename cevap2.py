@@ -1,0 +1,1 @@
+print('cevap 2')
